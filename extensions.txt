@@ -1,0 +1,20 @@
+-Auto Close Tag
+-Auto Complete Tag
+-Auto Rename Tag
+-autoclose
+-ES7+ React/Redux/React-Native snippets
+-Image preview
+-Jupyter
+-Jupyter Cell Tags
+-Jupyter Keymap
+-Jupyter Notebook Renderers
+-Jupyter Side Show
+-Live Server
+-Node.js Exec
+-npm Intenllisense
+-One Dark Pro
+-Polacode
+-Prettier
+-Pylance
+-Python
+-Sass
